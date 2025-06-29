@@ -57,4 +57,4 @@ While I can't share the source code due to NDA and confidentiality, I’ve contr
 ### 📫 Contact Me
 - 📧 Email: **i222637@nu.edu.pk**
 - 🌐 Portfolio: *Coming Soon*
-- 💼 LinkedIn: [[Your LinkedIn Profile]](https://www.linkedin.com/in/gul-sher-khan/)
+- 💼 LinkedIn: [[Gul Sher Khan]](https://www.linkedin.com/in/gul-sher-khan/)
